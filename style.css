@@ -5,7 +5,7 @@
 .header{
     min-height: 100dvh;
     width: 100%;
-    background-image: -moz-linear-gradient(rgba(4,9,30,0,7),rgba(4,9,30,0,7)),url(pictures/pc2.png);
+    background-image: -o-linear-gradient(rgba(4,9,30,0,7),rgba(4,9,30,0,7)),url(pictures/pc2.png);
 background-position: center;
 background-size: cover;
 position: relative;
