@@ -102,6 +102,20 @@ li:active {
     width: 100vw;
 }
 
+.let-contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: calc(100vh - 117px);
+    color: orange;  
+}
+
+.let-contact>h1{
+    font-size: 50px;
+}
+
 .welcome {
     display: flex;
     flex-direction: column;
