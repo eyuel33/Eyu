@@ -62,7 +62,7 @@ li:active {
 }
 
 .bg-about {
-    background-image: url(./pictures/pc2.png);
+    background-image: url(./pictures/pc4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -118,7 +118,7 @@ li:active {
 .readmore {
     margin-top: 10px;
     padding: 10px 20px;
-    background-color: #fff;
+    background-color: rgba(0, 0, 0, 0.527);
     color: orange;
     font-size: 20px;
     font-weight: 700;
