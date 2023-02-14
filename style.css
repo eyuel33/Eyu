@@ -69,14 +69,6 @@ li:active {
     width: 100vw;
 }
 
-.bg-about {
-    background-image: url(./pictures/pc2.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-    width: 100vw;
-}
-
 .bg-product {
     background-image: url(./pictures/pc2.png);
     background-repeat: no-repeat;
@@ -86,7 +78,7 @@ li:active {
 }
 
 .bg-service {
-    background-image: url(./pictures/pc2.png);
+    background-image: url(./pictures/pc2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -94,7 +86,7 @@ li:active {
 }
 
 .bg-contact {
-    background-image: url(./pictures/pc2.png);
+    background-image: url(./pictures/pc7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
