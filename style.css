@@ -1,11 +1,93 @@
-*{ margin:0;
-    padding:0;
+body,
+html {
+    height: 100%;
+    margin: 0;
 }
-.header{
-    min-height: 100dvh;
-    width: 100%;
-    background-image: -o-linear-gradient(rgba(4,9,30,0,7),rgba(4,9,30,0,7)),url(pictures/pc2.png);
-background-position: center;
-background-size: cover;
-position: relative;
+
+.bg {
+    /* The image used */
+    background-image: url("pictures/pc.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    overflow: visible;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: right;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("pictures/pc.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    overflow: visible;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: right;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: red;
+}
+
+.Logo a {
+    float: left;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: wavy;
+}
+
+
+.navbar a:hover {
+    background-color: red;
+}
+
+.Logo a {
+    float: left;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: wavy;
 }
