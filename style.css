@@ -77,6 +77,15 @@ li:active {
     width: 100vw;
 }
 
+.mainproducts {
+    width: 80%;
+    margin: auto;
+    text-align: left;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+
 .bg-service {
     background-image: url(./pictures/pc2.jpg);
     background-repeat: no-repeat;
